@@ -1,14 +1,15 @@
 # Global-health-Analysis-for-the-Year-2012-2021.
-The project is focused on highlighting and analyzing the underlying factors affecting the global health health sphere, and finding ways to improve life quality across the globe. 
+ 
 ![My dashboard](https://github.com/AdebiyiDeborah/Global-health-Analysis-for-the-Year-2014-2022./blob/main/Global%20health%20dasboard.PNG)
-🌍 Global Health Analysis Dashboard
-📌 Introduction
+
+
+### Introduction
 
 In today’s interconnected world, global health is a pressing concern that affects us all. From pandemics to healthcare disparities, understanding the complexities of global health is crucial for building a healthier future.
 
 This project explores the latest trends, challenges, and insights shaping the global health landscape. Through data analysis and visualization, I uncover key patterns and stories behind global health metrics.
 
-🎯 Problem Statement
+### Problem Statement
 
 Despite significant advancements in medical technology and connectivity, millions of people still lack access to quality healthcare, resulting in:
 
@@ -20,14 +21,14 @@ Escalating healthcare costs threatening global economic stability
 
 As a data analyst, I analyzed a comprehensive dataset and developed a dashboard to reveal insights that can help drive positive changes in global health.
 
-📁 Dataset Metadata
+### Dataset Metadata
 
 Total Rows: 1,881
 Total Columns: 24
 
-Key Columns
+### Key Columns
 
-- Country – Name of the country
+ - Country – Name of the country
 
 - Year – Observation year (2014–2021)
 
@@ -41,60 +42,59 @@ Key Columns
 
 - Suicide rate (%) – Another health indicator
 
-🧹 Data Cleaning & Preprocessing
+### Data Cleaning & Preprocessing
 
-Checked and removed duplicates
+- Checked and removed duplicates
 
-Ensured consistent spelling and numerical formatting
+- Ensured consistent spelling and numerical formatting
 
-Corrected missing or invalid entries
+- Corrected missing or invalid entries
 
-🔀 Data Splitting
-- Dependent Variables
+### Data Splitting
+### Dependent Variables
 
-Country code
+- Country code
 
-Fertility rate
+- Fertility rate
 
-Urban population %
+- Urban population %
 
-Total population
+- Total population
 
-Suicide rate %
+- Suicide rate %
 
-Obesity rate %
+- Obesity rate %
 
-Others
 
-- Independent Variables
+### Independent Variables
 
-Country
+- Country
 
-Year
+- Year
 
-Sanitary expenses per capita
+- Sanitary expenses per capita
 
-GDP per capita
+- GDP per capita
 
-Sanitary expenses
+- Sanitary expenses
 
-📊 Pre-Analysis Questions
+### Pre-Analysis Questions
 
 Potential analytical questions included:
 
-What are the top three years with the highest sanitary expenses?
+- What are the top three years with the highest sanitary expenses?
 
-Which countries have the highest infant death and fertility rates?
+- Which countries have the highest infant death and fertility rates?
 
-What are the top ten countries with low immunization?
+- What are the top ten countries with low immunization?
 
-What is the sum of GDP per capita from 2012–2019?
+- What is the sum of GDP per capita from 2012–2019?
 
-How does suicide rate (%) relate to alcohol consumption from 2014–2019?
+- How does suicide rate (%) relate to alcohol consumption from 2014–2019?
 
-What is the female population in the top ten countries?
+- What is the female population in the top ten countries?
 
-🧠 Pre-Analysis Insights
+### Pre-Analysis Insights
 
 - High sanitary expenses may indicate environmental or public health challenges.
 
@@ -104,8 +104,8 @@ What is the female population in the top ten countries?
 
 - GDP per capita trends help reveal population work pressure and economic strain.
 
-📌 Analysis
-🔍 Key Observations
+### Analysis
+### Key Observations
 - Top Three Years by Sanitary Expenses; 2021: $1,350.93, 2020: $1,338.01, 2019: $1,212.56
 
 - Top Ten Countries with Low Immunization; Liechtenstein: 0 immunization; South Sudan: 552, Nigeria: 529
@@ -115,7 +115,7 @@ What is the female population in the top ten countries?
 - Countries with Highest Infant Death & Fertility
 Country	Infant Death (Sum)	Fertility Rate (Sum), India	8,398,815	22,307, Nigeria	5,607,401	55,329, Pakistan	3,753,550	38.1
 
-🧩 Pre-Insights
+### Pre-Insights
 
 - 2021 sanitary expenses deserve deeper investigation to identify major cost drivers.
 
@@ -125,8 +125,8 @@ Country	Infant Death (Sum)	Fertility Rate (Sum), India	8,398,815	22,307, Nigeria
 
 - The GDP drop (2014 → 2015) suggests economic instability that should be investigated.
 
-📌 Post-Analysis
-📈 Additional Observations
+### Post-Analysis
+ ### Additional Observations
 
 - 2021: $1,350,929,259 sanitary expenses; $3,293,123,509 GDP per capita
 
@@ -134,7 +134,7 @@ Country	Infant Death (Sum)	Fertility Rate (Sum), India	8,398,815	22,307, Nigeria
 
 - Austria: 896 low immunization; 2,487 infant deaths; 1,473 fertility rate
 
-✔️ Recommendations
+### Recommendations
 
 - Increase sanitation campaigns to match rising sanitary expenses.
 
@@ -144,7 +144,7 @@ Country	Infant Death (Sum)	Fertility Rate (Sum), India	8,398,815	22,307, Nigeria
 
 - Improve female education and empowerment—key to reducing infant mortality.
 
-📊 Visualizations Included
+### Visualizations Included
 
 - Pie Chart – Top three years with highest sanitary expenses
 
@@ -159,7 +159,7 @@ Country	Infant Death (Sum)	Fertility Rate (Sum), India	8,398,815	22,307, Nigeria
 - Map Chart – Female population across top countries
 
 
-📚 Reference
+### Reference
 
 Dataset: Global health datasets on Kaggle
 
