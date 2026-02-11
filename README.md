@@ -1,4 +1,4 @@
-# Global-health-Analysis-for-the-Year-2014-2022.
+# Global-health-Analysis-for-the-Year-2012-2021.
 The project is focused on highlighting and analyzing the underlying factors affecting the global health health sphere, and finding ways to improve life quality across the globe. 
 ![My dashboard](https://github.com/AdebiyiDeborah/Global-health-Analysis-for-the-Year-2014-2022./blob/main/Global%20health%20dasboard.PNG)
 🌍 Global Health Analysis Dashboard
